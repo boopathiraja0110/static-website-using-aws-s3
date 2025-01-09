@@ -1,1 +1,1 @@
-# static-website-using-aws-s3
+# static-website-using-aws-s3 cloud basic project
